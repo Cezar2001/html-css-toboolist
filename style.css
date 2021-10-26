@@ -59,6 +59,14 @@ h2{
     font-size: 25px;
 }
 
-span{
+.triangolino{
     font-size: 15px;
+}
+
+.check{
+    color: rgb(0, 255, 34);
+    border: 10px solid rgb(0, 255, 34;
+    border-radius: 50%;
+    
+    
 }
